@@ -1,9 +1,9 @@
 const cacheName = "IDAC-idac_FoodMenu-1.0";
 const contentToCache = [
-    "Build/QR_Generator_WEBGLBuild.loader.js",
-    "Build/QR_Generator_WEBGLBuild.framework.js.unityweb",
-    "Build/QR_Generator_WEBGLBuild.data.unityweb",
-    "Build/QR_Generator_WEBGLBuild.wasm.unityweb",
+    "Build/QR_CodeBuiild.loader.js",
+    "Build/QR_CodeBuiild.framework.js.unityweb",
+    "Build/QR_CodeBuiild.data.unityweb",
+    "Build/QR_CodeBuiild.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
